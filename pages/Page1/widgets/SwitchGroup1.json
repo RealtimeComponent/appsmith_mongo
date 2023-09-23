@@ -36,7 +36,7 @@
     "labelTextSize": "0.875rem",
     "isRequired": false,
     "isDeprecated": false,
-    "rightColumn": 29,
+    "rightColumn": 33,
     "defaultSelectedValues": ["BLUE"],
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "7zp2bv87my",
